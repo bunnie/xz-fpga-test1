@@ -1,0 +1,18 @@
+# xztop.pcf
+set_io clk    13
+
+set_io blink  1
+
+set_io clk_oe 24
+
+set_io ss 37
+set_io sclk 33
+set_io mosi 30
+set_io miso 29
+
+set_io dbg0 2
+set_io dbg1 3
+set_io dbg2 4
+set_io dbg3 7
+set_io dbg4 8
+set_io dbg5 9
