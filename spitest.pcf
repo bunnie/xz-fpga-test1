@@ -16,3 +16,15 @@ set_io dbg2 4
 set_io dbg3 7
 set_io dbg4 8
 set_io dbg5 9
+
+set_io buzzer 19
+
+#set_io fe2_clk 90
+#set_io fe2_data 89 # clk
+#set_io fe2_data 87
+
+set_io fe1_clk 63
+set_io fe1_data 62  # clk
+#set_io fe1_data 60
+
+set_io got_pkt 45
